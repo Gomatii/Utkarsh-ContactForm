@@ -9,7 +9,7 @@
     $body .= "Message: " . $message;
 
     // Send email
-    $to = "co.a.39.gomati.iyer@ves.ac.in";  
+    $to = "co.a.39.gomati.iyer@gmail.com";  
     $subject = "Contact Form Submission";
     $headers = "From: " . $email;
 
